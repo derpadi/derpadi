@@ -1,8 +1,8 @@
 ## Hi, I'm Patrick 👋
 
-🎓 M.Sc. Autonomous Systems & Robotics — TU Darmstadt
-🤖 Passionate about machines that perceive, decide, and act
-🔧 From microcontrollers to deep learning — I like the full stack
+🎓 M.Sc. Autonomous Systems & Robotics — TU Darmstadt  
+🤖 Passionate about machines that perceive, decide, and act  
+🔧 From microcontrollers to deep learning — I like the full stack  
 
 ## About Me
  
