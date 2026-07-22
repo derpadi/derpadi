@@ -14,7 +14,7 @@ Off the keyboard, I'm on my bike or out dancing.
 
 ### Stack I reach for most
 
-`C++` `Python` `Rust` · `ROS` / `Gazebo` · `PyTorch` / `OpenCV` · `CUDA` · `ESP32` / `Arduino` · `Docker`
+`C/C++` / `Python` · `ROS` / `Gazebo` · `PyTorch` / `OpenCV` · `CUDA` · `ESP32` / `Arduino` / `Raspberry Pi`
 
 ---
 
